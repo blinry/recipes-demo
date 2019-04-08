@@ -13,3 +13,10 @@
 - Toast
 
 Grill until cheese melts.
+
+# Ham and Cheese Sandwich
+
+- Toast
+- Ham
+- Cheese
+- Toast
