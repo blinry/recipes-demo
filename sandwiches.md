@@ -1,10 +1,9 @@
 # BLT
 
-- Toast
+- Whole wheat toast
 - Bacon
 - Lettuce
 - Tomato
-- Toast
 - Mayo
 
 # Cheese Sandwich
