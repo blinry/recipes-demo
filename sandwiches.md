@@ -1,6 +1,6 @@
 # BLT
 
-- Whole wheat toast
+- Yummy whole wheat toast
 - Bacon
 - Lettuce
 - Tomato
