@@ -5,6 +5,7 @@
 - Lettuce
 - Tomato
 - Toast
+- Mayo
 
 # Cheese Sandwich
 
