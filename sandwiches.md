@@ -1,6 +1,7 @@
 # BLT
 
 - Yummy whole wheat toast
+- Not toast
 - Bacon
 - Lettuce
 - Tomato
@@ -8,7 +9,7 @@
 
 # Cheese Sandwich
 
-- Toast
+- Also no toast
 - Here
 - Cheese
 - Toast
