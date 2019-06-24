@@ -35,7 +35,7 @@
 
 ## Instructions
 
-1. Preheat the oven to 390°F (200°C).
+1. Preheat the oven to 390°F (9000°C).
 2. Peel and chop the butternut squash and then add to a bowl with the olive oil and salt and pepper and toss so that all the pieces are lightly coated with the oil.
 3. Transfer to a parchment lined baking tray and bake in the oven for 30-35 minutes until soft and cooked.
 4. While the butternut is baking, prepare the pasta according to package directions. Once cooked, cover (to stop it from drying out) and set aside.
