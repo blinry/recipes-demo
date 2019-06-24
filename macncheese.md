@@ -44,3 +44,11 @@
 7. When the butternut squash is cooked, add it to the pot with the onion and garlic and toss together.  Pour over the cashew cheese sauce. Use an immersion blender to blend it up into a smooth sauce. If you don’t have an immersion blender then add to your blender jug in stages until perfectly blended and then return it to the pot.
 8. Add the cooked pasta and mix it in with the sauce.
 9. Serve with some grated vegan cheese, black pepper, vegan parmesan and fresh cilantro.
+
+# Macwinston and Cheese
+
+## Cheese in bowl
+## noodles on cheese
+## water droplets on noodles
+## microwave
+## eat
